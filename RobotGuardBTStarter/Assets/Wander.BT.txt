@@ -1,4 +1,6 @@
 tree("Root")
 	sequence
+		//chama a task que randomiza o destino
 		PickRandomDestination
+		//chama a task para se mover 
 		MoveToDestination
