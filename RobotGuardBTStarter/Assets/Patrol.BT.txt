@@ -1,0 +1,18 @@
+tree("Root")
+	sequence
+		//Seta a posição
+		PickDestination(-100,-100)
+		//Se move para o local
+		MoveToDestination
+		//Seta a posição
+		PickDestination(-100, 100)
+		//Se move para o local
+		MoveToDestination
+		//Seta a posição
+		PickDestination( 100, 100)
+		//Se move para o local
+		MoveToDestination
+		//Seta a posição
+		PickDestination( 100,-100)
+		//Se move para o local
+		MoveToDestination
