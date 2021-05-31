@@ -298,6 +298,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Droid lookAround
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: f522d7a6ae22b4349bb8a2aa6cfb6bff, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: f522d7a6ae22b4349bb8a2aa6cfb6bff, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -1296,6 +1300,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Droid Attack
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: f522d7a6ae22b4349bb8a2aa6cfb6bff, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: f522d7a6ae22b4349bb8a2aa6cfb6bff, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -1837,7 +1845,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scripts:
-  - {fileID: 4900000, guid: 130ab50227be0894f937f798c36036c9, type: 3}
+  - {fileID: 4900000, guid: 8eaa6743306a29c448e5192afb2773b6, type: 3}
   autoReset: 1
   tickOn: 0
   sourceInfos:
@@ -2470,6 +2478,10 @@ PrefabInstance:
     - target: {fileID: 100004, guid: f522d7a6ae22b4349bb8a2aa6cfb6bff, type: 3}
       propertyPath: m_Name
       value: Droid Patrol
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: f522d7a6ae22b4349bb8a2aa6cfb6bff, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: f522d7a6ae22b4349bb8a2aa6cfb6bff, type: 3}
       propertyPath: m_RootOrder
